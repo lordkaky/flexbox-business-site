@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: "Lexend Mega", sans-serif;
+    color: black;
+    background-color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+h2, h3, h4, p{
+    margin: 0;
+    padding: 10px;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10%;
+}
